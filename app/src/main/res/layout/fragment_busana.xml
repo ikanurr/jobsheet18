@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Busana">
+
+    <TextView
+        android:layout_width="339dp"
+        android:layout_height="534dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:text="Program studi Tata Busana sering juga disebut dengan nama Fashion Design, program studi ini di pelajari teknik mendesain, belajar membuat pola, menjahit, dan seluk beluk produksi busana atau fashion."
+        android:textColor="@color/purple_700"
+        android:textSize="29sp"
+        android:textStyle="bold" />
+</FrameLayout>

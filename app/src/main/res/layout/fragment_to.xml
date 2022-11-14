@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".To">
+
+
+    <TextView
+        android:layout_width="339dp"
+        android:layout_height="534dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:text="Teknik otomotif adalah salah satu cabang ilmu teknik mesin yang mempelajari tentang bagaimana merancang, membuat dan mengembangkan alat-alat transportasi darat yang menggunakan mesin, terutama sepeda motor, mobil, bis dan truk."
+        android:textColor="#B30015"
+        android:textSize="29sp"
+        android:textStyle="bold" />
+
+</FrameLayout>

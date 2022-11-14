@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Pplg">
+
+    <TextView
+        android:layout_width="339dp"
+        android:layout_height="534dp"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:text="PPLG atau Pengembangan Perangkat Lunak dan Gim adalah sebuah jurusan di SMK (Sekolah Menengah Kejuruan). Jurusan ini mempelajari dan mendalami cara-cara mengembangkan perangkat lunak."
+        android:textColor="#EF5907"
+        android:textSize="29sp"
+        android:textStyle="bold" />
+</FrameLayout>
